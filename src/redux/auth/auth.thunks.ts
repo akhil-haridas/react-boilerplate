@@ -7,7 +7,7 @@ export const login = (username: string, password: string) => async (dispatch: Ap
     await new Promise((resolve) => setTimeout(resolve, 1000));
 
     // On success, dispatch loginSuccess action
-    dispatch(loginSuccess({ username, email: `${username}@example.com` }));
+    dispatch(loginSuccess({ username, email: `${username}@example.com${password}` }));
 };
 
 // Simulated logout
