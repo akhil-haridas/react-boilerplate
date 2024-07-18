@@ -1,0 +1,1 @@
+<!-- Use this folder for the common tags (eg: button, input) -->

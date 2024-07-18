@@ -1,0 +1,1 @@
+<!-- Use this folder for the auth module (eg: login, signup) -->
