@@ -7,5 +7,11 @@
     {
       "path": "./tsconfig.node.json"
     }
-  ]
+  ],
+  "compilerOptions": {
+    "baseUrl": "src", // This must be set to the base directory
+    "paths": {
+      "constants/*": ["constants/*"]
+    },
+  },
 }
