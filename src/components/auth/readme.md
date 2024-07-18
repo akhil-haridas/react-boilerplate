@@ -1,1 +1,1 @@
-<!-- Use this folder for the auth module (eg: login, signup) -->
+<!-- Use this folder for the Authentication components (eg: Wrapper) -->

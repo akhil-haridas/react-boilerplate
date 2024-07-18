@@ -1,1 +1,1 @@
-<!-- Use this folder for the common tags (eg: button, input) -->
+<!-- Use this folder for the Common components (eg: button, input, Spinner) -->
