@@ -1,4 +1,4 @@
-import React from 'react';
+.import React from 'react';
 import { Redirect, Route, RouterProps } from 'react-router-dom';
 
 const isAuthenticated = () => { }
