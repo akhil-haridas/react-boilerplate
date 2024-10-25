@@ -1,4 +1,4 @@
-.......// src/routes.tsx
+// src/routes.tsx
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import PrivateRoute from './components/auth/PrivateRoute';
